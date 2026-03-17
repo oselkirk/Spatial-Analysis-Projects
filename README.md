@@ -19,4 +19,4 @@ Data Sources:
 
 Connecticut Geological Survey – Bedrock Geology of Connecticut
 
-[View Map](CT_Bedrock_Map.pdf)
+[View Map](CT_Bedrock.pdf)
