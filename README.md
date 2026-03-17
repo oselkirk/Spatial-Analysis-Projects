@@ -4,13 +4,17 @@ This repository contains GIS and spatial analysis projects exploring environment
 
 ---
 
-## Bedrock Geology of Connecticut
+## Geologic Age of Bedrock Formations in the State of Connecticut
 
-This project maps the spatial distribution of bedrock formations across Connecticut categorized by geologic time period. The map highlights regional geological variation and demonstrates cartographic design principles including symbology, legend creation, and layout elements such as a north arrow and scale bar.
+This project maps statewide bedrock geology of Connecticut using GIS workflows in QGIS. The map visualizes the spatial distribution of major bedrock units and their corresponding geologic ages. 
 
-Tools used:
-- GIS spatial datasets
-- Layer symbology
-- Cartographic layout design
+Key GIS techniques used in this project include raster mosaicking, coordinate reference system management, and custom layout design within QGIS.
+
+Software: QGIS
+Projection: NAD83 / Connecticut State Plane (ft)
+
+Data Sources:
+
+Connecticut Geological Survey – Bedrock Geology of Connecticut
 
 [View Map](CT_Bedrock_Map.pdf)
